@@ -24,11 +24,11 @@ $ npm start
 ### Deploy URL
 https://infinite-earth-38624.herokuapp.com/production
 
-##### Services
+### Services
 1. /products
 2. /categories
 
-##### Estructura del proyecto
+### Estructura del proyecto
 1. Interfaces:
     - Rutas por donde se acceden a los servicios
     - Controladores para recibir peticiones y mandar repositorios a los casos de uso

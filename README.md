@@ -25,8 +25,8 @@ $ npm start
 https://infinite-earth-38624.herokuapp.com/production
 
 ### Services
-1. /products
-2. /categories
+1. /products Devuelve los productos.
+2. /categories Devuelve las categorías con la cantidad de productos que tiene.
 
 ### Estructura del proyecto
 1. Interfaces:
